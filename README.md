@@ -1,4 +1,4 @@
-# Qualcomm QCS6490 Edge AI Label Defects Detection
+# Qualcomm QCS6490 Edge AI Smart Camera - Advanced
 
 ## Advantages of QCS6490
 
